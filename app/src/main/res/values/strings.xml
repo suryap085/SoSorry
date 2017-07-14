@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">So Sorry</string>
+    <string name="action_settings">Settings</string>
+    <string name="rateUs">Rate Us</string>
+    <string name="share">Share</string>
+    <string name="morebydeveloper">More from developer</string>
+    <string name="search">Search Videos</string>
+    <string name="popularvideos">Trending Videos Now</string>
+    <string name="banner_home_footer">ca-app-pub-8519418185028322/2333676897</string>
+    <string name="interstitial_full_screen">ca-app-pub-8519418185028322/6763876493</string>
+    <string name="action_recycler_view">RecyclerView</string>
+
+</resources>
